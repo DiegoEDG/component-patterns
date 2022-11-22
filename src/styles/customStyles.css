@@ -1,0 +1,26 @@
+.bg-black {
+	background-color: black;
+	border-color: white;
+}
+
+.customImage {
+	border-radius: 30px;
+	padding: 10px;
+	width: calc(100% - 20px);
+}
+
+.textWhite {
+	color: white;
+}
+
+.customButtons button,
+.customButtons div {
+	border-color: white;
+	color: white;
+}
+
+.shopping-cart {
+	position: fixed;
+	top: 0px;
+	right: 100px;
+}
